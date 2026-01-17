@@ -1,7 +1,7 @@
 const name = "shankar Das";
-const age = 3774745;
-const add = "Tantipara";
-const accNo = 1050010;
+const age = 25;
+const add = "Tantipara,Birbhum";
+const accNo = 1050010252261;
 const balance = 436;
 
 function update(val){
